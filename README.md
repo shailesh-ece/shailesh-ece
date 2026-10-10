@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Sriraman S 👋
 
-<!--
-**shailesh-ece/shailesh-ece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Communication Engineering Student | Aspiring VLSI & Core Electronics Engineer
 
-Here are some ideas to get you started:
+* 🎓 Electronics & Communication Engineering student at St. Joseph’s College of Engineering
+* 🛠️ Interested in Digital Electronics, VLSI, Embedded Systems, and Hardware Design
+* 💻 Currently developing my skills in C, C++, and Python
+* 🧠 Learning about Digital Design, RTL, Verilog, and Computer Architecture
+* 🚀 I enjoy learning through practical projects and building my technical skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 About Me
+
+I am an Electronics & Communication Engineering student with a strong interest in core electronics, VLSI, digital electronics, and embedded systems. 
+
+I am building my foundation in digital and analog electronics, microcontrollers, communication systems, circuit analysis, and programming. My goal is to develop strong practical skills in hardware design, embedded systems, and VLSI and gradually build a career in the semiconductor and electronics industry.
+
+---
+
+## 🛠️ Skills & Technologies
+
+* **Programming:** C, C++, Python, Embedded C (Learning)
+* **Electronics:** Digital Electronics, Analog Electronics, Microcontrollers, Embedded Systems, Circuit Analysis
+* **VLSI:** Digital Design, RTL, Verilog, FPGA
+* **Areas of Interest:** Hardware Design
+
+---
+
+## 🚀 Featured Projects
+
+#### C Programming Practice
+* Basic C programs covering arithmetic operations, digit extraction, and logic implementation.
+* **Tech:** C | Logic Design | Problem Solving
+
+---
+
+## 📫 Connect With Me
+
+* Let's connect and learn together in electronics, VLSI, embedded systems, and programming!
