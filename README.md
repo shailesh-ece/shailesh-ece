@@ -1,4 +1,4 @@
-# Hi there, I'm Sriraman S 👋
+# Hi there, I'm Shailesh P 👋
 
 ### Electronics & Communication Engineering Student | Aspiring VLSI & Core Electronics Engineer
 
